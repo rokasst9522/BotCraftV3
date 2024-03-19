@@ -1,0 +1,1 @@
+Worker: node quiting-bot.js
